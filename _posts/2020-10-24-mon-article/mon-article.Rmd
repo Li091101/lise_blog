@@ -1,0 +1,80 @@
+---
+title: "Warmer, acidifying ocean brings extinction for reef-building corals, renewal for relatives"
+description: This post is an analysis of stony corals evolution and the adaptation of soft-bodied
+
+author:
+  - name: Lise VE
+    url: {}
+date: 10-24-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+**Human carbon emissions already devastating harder coral reefs, while softer-bodied relatives will persist and diversify for millions of years**
+
+
+Changes in ocean chemistry and temperature have had a dramatic effect on the diversity of corals and sea anemones, according to a team of scientists who have traced their evolution through deep time. A new study, published Aug. 31 in the journal Nature Ecology and Evolution, finds that reef-building corals emerged only when ocean conditions supported the construction of these creatures' stony skeletons, whereas diverse softer corals and sea anemones flourished at other times. Without a significant change to anthropogenic carbon emissions, the new findings present stark implications for the present and future of hard-bodied corals while suggesting a silver lining for the diversity of some of their softer-bodied relatives.
+
+New genetic analyses show that corals, which together with sea anemones make up a class of animals known as anthozoans, have been on the planet for 770 million years. That is 250 million years before the earliest undisputed fossil evidence of their existence -- and long enough to experience massive shifts in climate, fluctuations in ocean chemistry and several mass extinctions.
+
+In the new study, a research team led by scientists from Harvey Mudd College, the American Museum of Natural History and the Smithsonian's National Museum of Natural History examined how these past conditions affected anthozoan diversity. That was possible thanks to a new molecular approach developed by Andrea Quattrini, research zoologist and curator of corals at the National Museum of Natural History, Catherine McFadden, a biologist at Harvey Mudd College, and Estefanía Rodríguez, a curator at the American Museum of Natural History, which allowed the team to compare nearly 2,000 key regions of anthozoan genomes to discern the evolutionary relationships between species. The team analyzed hundreds of anthozoan specimens that were collected from around the world and are now stored in museum collections.When this molecular data was aligned with fossil evidence of anthozoan history, it revealed how these diverse animals evolved over geologic time.
+
+Over the Earth's history, changes in acidity and ion concentrations have shifted the ocean's chemical composition between two states, known as aragonite and calcite seas. These changes, as well as changes in ocean water temperature, appear to have played an important role in determining what kinds of skeletons corals were able to produce and, thus, how anthozoans evolved.
+
+Stony corals -- the type that build massive reefs that support complex marine ecosystems -- take up minerals from the water to construct hard skeletons from a form of calcium carbonate known as aragonite. Other corals, such as sea fans and black corals, build their softer skeletons from protein or calcite (a less soluble form of calcium carbonate), whereas sea anemones have no skeleton at all.
+Working with an international team of researchers, including Gabriela Farfan, the National Museum of Natural History's Coralyn W. Whitney Curator of Gems and Minerals, Quattrini and colleagues found that stony corals did not arise until conditions favored the construction of their aragonite skeletons -- periods of aragonite seas, when ocean temperatures were relatively cool. During periods of calcite seas, when carbon dioxide is more abundant in the atmosphere and oceans are more acidic, evolution favored anemones and corals that built their skeletons from protein or calcite.
+
+Notably, it was these other anthozoans that fared best after reef crises -- times when up to 90% of reef-building organisms died off as oceans warmed and became more acidic. "Our study showed that after these reef crises, we actually get an increased diversification of anthozoans in general, particularly those that can do well under these climate conditions -- ones that aren't producing aragonite and aren't making big reefs," Quattrini said.
+
+That is consistent with observations from today's reefs, which are threatened by climate change and other human activities. "Current ecological studies have shown that when stony corals die off, these other anthozoans start to colonize dead coral and prosper," Quattrini said. "We actually see that in our evolutionary tree, too."
+
+"Unfortunately, although these softer-bodied species may adapt better to climate change than stony corals, they don't form large reefs," McFadden said. "So, in the future, reefs may be replaced by different marine communities. This already appears to be happening in the Caribbean where stony corals are being replaced by 'forests' of sea fans."
+
+Today, about 1,300 species of stony coral inhabit the ocean, favored by aragonite sea conditions. But rising levels of carbon dioxide in the atmosphere are warming and acidifying the waters, making them less hospitable for these and other organisms whose shells and skeletons are made from aragonite. "Aragonite is expected to dissolve under ocean acidification," Quattrini said. "As our seas are becoming more acidic and warmer, it's likely that the skeletons of corals will dissolve or not be able to grow."
+
+The new study suggests that as the climate changes, these ecosystems may also see increased diversification of anthozoans without aragonite skeletons. Nevertheless, loss of reef-building corals will have devastating consequences for communities who depend on reefs and the rich, complex ecosystems they support for fishing, shoreline protection and tourism. "Corals have suffered extinctions in the past when climate has posed challenges, and we'll likely see that in the future," Quattrini said. "The best way to protect them is to curb our carbon emissions."
+
+"This study shows us how nature through evolution is able to adapt, survive and reinvent itself, so when hard corals are not able to survive, their soft-bodied relatives such as sea anemones will thrive instead," Rodríguez said. "The question is whether we will be able to adapt and reinvent ourselves once nature, as we currently know it, is not there anymore."
+Funding for this research was provided by the National Science Foundation.
+
+### source 
+https://www.sciencedaily.com/releases/2020/08/200831112354.htm
+
+### vocabulary 
+|Word from the text|Synonym/definition in English|French translation|
+| --- | --- | --- |
+|stony|the appearance of stone|pierreux |
+|to flourish|to develop well|bien pousser|
+|bodied|it's like body|de taille/ à corps|
+|to shift|syn: to move|déplacer|
+|aragonite|It’s a mineral composition from calcium carbonate|aragonite|
+|thus|syn: therefore|par conséquent /ainsi|
+|to fare|syn: to avoid|s'en sortir|
+|to threaten|syn: to aggress|menacer|
+|to prosper|to grow well|prospérer|
+|hospitable|to be welcoming|hospitalier|
+|shoreline|water's edge|littoral|
+|to curb|edge of the sidewalk|bord du trottoir|
+|to thrive|syn : to be healthy|se développer|
+|anthozoan|it's a class in the classification|anthozoaire|
+|to curator|syn: to keep|conserver|
+|kinds of|syn: rather|à moitié|
+|to increase|syn: to rise |augmenter|
+|shell|it's a mollusk|coquillage|
+
+### analysis
+|analysis|/     |
+| --- | --- |
+|Researchers?|Andrea M. Quattrini, Estefanía Rodríguez, Brant C. Faircloth, Peter F. Cowman, Mercer R. Brugler, Gabriela A. Farfan, Michael E. Hellberg, Marcelo V. Kitahara, Cheryl L. Morrison, David A. Paz-García, James D. Reimer, Catherine S. McFadden.|
+|Published in? when (if mentioned)?|ScienceDaily August 31, 2020|
+|General topic|This article speak about  stony corals which were able to produce aragonite or calcite to suit sea states. The global warming allow corals which produce calcite and to the soft-bodied of to develop. Because the aragonite to dissolve under ocean acidification|
+|Procedure/ what was examined|     |
+|Conclusions/ discovery|Soft-bodied will thrive instead of stony corals|
+|Remaining questions|     |
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
