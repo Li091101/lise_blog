@@ -14,7 +14,7 @@ navbar:
 base_url: http://Li091101.github.io/lise_blog/ 
 collections:
     posts:
-      disqus: lise-blog
+      disqus: lise-blog-1
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:
