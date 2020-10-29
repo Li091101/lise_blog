@@ -10,7 +10,7 @@ navbar:
     - text: "About Me"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/Lise/lise_blog 
+      href: https://github.com/Li091101/lise_blog 
 base_url: http://Li091101.github.io/lise_blog/ 
 collections:
     posts:
