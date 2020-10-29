@@ -11,9 +11,10 @@ navbar:
       href: about.html
     - icon: fab fa-github
       href: https://github.com/Lise/lise_blog 
-base_url: Li091101.github.io/lise_blog/
+base_url: https:///lise.githube.io/lise_blog 
 collections:
     posts:
+      disqus: lise-blog
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:
