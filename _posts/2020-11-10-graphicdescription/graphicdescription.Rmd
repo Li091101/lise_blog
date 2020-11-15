@@ -1,0 +1,41 @@
+---
+title: "Graphic_description"
+categories:
+  - Data Sciences I 
+description: This article is about a study on the sea urchin. This article compares those of the farm and those of the sea. 
+
+
+author:
+  - name: Lise VE
+    url: {}
+date: 11-10-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+#package
+SciViews::R
+```
+
+```{r importation}
+data <- read("urchin_bio", package = "data.io")
+```
+
+### introduction
+
+I decide to look the weight and the height between the sea urchin which come from sea or farm.So I take data for to compare with a graphic which show the difference and try to understand why. 
+
+```{r}
+a <-chart(data,formula = ~ weight %fill=% origin) +
+  geom_histogram(na.rm = TRUE)
+b <-chart(data,formula = ~ height %fill=% origin) +
+  geom_histogram(na.rm = TRUE)
+combine_charts(list(a,b))
+
+```
+After analysis of these graphics we can see that the sea urchin from farm are more heavy and tall than those of sea. Those of the farm crow in environment which is better than those fishery, they surely have more food to eat develop or are possibly genetically modified. 
+
+
