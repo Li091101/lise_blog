@@ -24,18 +24,18 @@ SciViews::R
 data <- read("urchin_bio", package = "data.io")
 ```
 
-### introduction
+### Introduction
 
-I decide to look the weight and the height between the sea urchin which come from sea or farm.So I take data for to compare with a graphic which show the difference and try to understand why. 
+I decide to look the maturity between the sea urchin which come from sea or farm.So I take data for to compare with a graphic which show the potential difference.   
 
 ```{r}
-a <-chart(data,formula = ~ weight %fill=% origin) +
-  geom_histogram(na.rm = TRUE)
-b <-chart(data,formula = ~ height %fill=% origin) +
-  geom_histogram(na.rm = TRUE)
-combine_charts(list(a,b))
+chart(data = urchin_bio, ~ maturity %fill=% origin) +
+  geom_bar(position = "dodge") +
+  ylab("Effectifs") +
+  scale_fill_viridis_d()
 
 ```
-After analysis of these graphics we can see that the sea urchin from farm are more heavy and tall than those of sea. Those of the farm crow in environment which is better than those fishery, they surely have more food to eat develop or are possibly genetically modified. 
 
+
+After analysis of these graphics we can see that the sea urchin from farm are less likely to reach maturity than those of sea. Those of the farm are greater number to be immature(More 150 individuals against less 150 indviduals for those of sea). Concerning the maturity between 1-2 years those of sea are more present.Of general way, the majority of specie no matter their origin, they don't have maturity.  
 
