@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-11-21-mon-article-3/",
+    "title": "Coral bleaching in Fiji: How the country is protecting its vital reef",
+    "description": "This article is on the differents manner to save the corals of responsible way.",
+    "author": [
+      {
+        "name": "Lise VE",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-21",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-11-21T17:29:38+01:00"
+  },
+  {
     "path": "posts/2020-11-10-graphicdescription/",
     "title": "Graphic_description",
     "description": "This article is about a study on the sea urchin. This article compares those of the farm and those of the sea.",

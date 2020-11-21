@@ -1,0 +1,47 @@
+---
+title: "Coral bleaching in Fiji: How the country is protecting its vital reef"
+description: This article is on the differents manner to save the corals of responsible way.
+author:
+  - name: Lise VE
+    url: {}
+date: 11-21-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### source url 
+
+https://www.bbc.co.uk/newsround/54088906
+word count : 865
+
+### vocabulary 
+|Word from the text|Synonym/definition in English|French translation|
+| --- | --- | --- |
+|harmful|can harm|nocif|
+|rely on|depend on|compter sur|
+|provides|syn: to catch|fournir|
+|backbone|syn: to support|pilier|
+|average|the mean|moyenne|
+|to recover|return to normal|rétablir|
+|loss|syn: damage|perte/détérioration|
+|coastal|near the sea|cotière/littoral|
+|the neighbouring|syn: nearby|voisin/limitrophe|
+|due|syn: have to|dû|
+|the rate|measurement|le taux|
+|unless|expect that|à moins que/sauf si|
+
+|analysis|/     |
+| --- | --- |
+|Researchers?|Victor Bonito|
+|Published in? when (if mentioned)?|BBC, September 14 2020|
+|General topic|This article is on the climate change, the coral importance in our life. There is also the El Nino which is climate cycle every 2 to 7 years with a increase temperature of seas.  |
+|Procedure/ what was examined|-The fiji have had a marine protected areas which allow to reduce the fishing and activities. And do ecotourism in coastal village.  Futhermore, Victor Bonito’s work consist to identify the types corals and do several nurseries along the coast.|
+|Conclusions/ discovery|Trough to marine protected areas coral cover had increased by 500% and there are 50% more coral species.Moreover,trough to five nurseries along the coast and Bonito’s searchs there are 7000 heat-tolerant corals. But all this discoveries won’t can save the coral and counter the climate change effects.|
+|Remaining questions|/|
+
+
