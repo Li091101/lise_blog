@@ -1,0 +1,22 @@
+---
+title: "Deep beneath the high seas, researchers find rich coral oases"
+description: This article is about a study on the seamount, That is mounts corals
+  
+author: 
+  - name: Lise Van Espen
+    url: {}
+date: 11-29-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Corals](https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/Survey_deepwater_corals_1280x720.jpg?itok=3eeOw621)
+
+### source url 
+https://www.sciencemag.org/news/2020/09/deep-beneath-high-seas-researchers-find-rich-coral-oases
+words : 790
