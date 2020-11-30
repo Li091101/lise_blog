@@ -1,8 +1,8 @@
 ---
-title: "Coral bleaching in Fiji: How the country is protecting its vital reef"
-description: This article is on the differents manner to save the corals of responsible way.
-author:
-  - name: Lise VE
+title: "Neon colors may help some corals stage a comeback from bleaching"
+description: This article is why the corals product neon colors ?
+author: Lise 
+  - name: 
     url: {}
 date: 11-21-2020
 output:
@@ -16,32 +16,35 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### source url 
 
-https://www.bbc.co.uk/newsround/54088906
-word count : 865
+https://www.sciencenews.org/article/corals-algae-neon-colors-bleaching-recovery-oceans
+word count : 552
 
 ### vocabulary 
 |Word from the text|Synonym/definition in English|French translation|
 | --- | --- | --- |
-|harmful|can harm|nocif|
-|rely on|depend on|compter sur|
-|provides|syn: to catch|fournir|
-|backbone|syn: to support|pilier|
-|average|the mean|moyenne|
-|to recover|return to normal|rétablir|
-|loss|syn: damage|perte/détérioration|
-|coastal|near the sea|cotière/littoral|
-|the neighbouring|syn: nearby|voisin/limitrophe|
-|due|syn: have to|dû|
-|the rate|measurement|le taux|
-|unless|expect that|à moins que/sauf si|
+|act as|syn: like|comme/en tant que|
+|dwell|to live|habiter/deleuré|
+|to struggle|to have difficult|avoir du mal|
+|hues|colour|nuances/teintes|
+|to shine|syn: to ligth|éclairer/diriger|
+|uptick|increase|légère hausse|
+|mild|syn: to lower|léger|
+|to ramp up|intensity work|redoubler d'effort/accroitre|
+|to plummet|syn: to fall|chuter|
+|to bump up|syn: increase|augmenter|
+|imblance|not equilibrium|désiquilibre|
+|bounce|rebound|rebondir|
+|to prompt|to take care yourself|se pomponner|
+|vivildy|intensely|avec éclat|
+|doom|dead|mort/perte|
 
 |analysis|/     |
 | --- | --- |
-|Researchers?|Victor Bonito|
-|Published in? when (if mentioned)?|BBC, September 14 2020|
-|General topic|This article is on the climate change, the coral importance in our life. There is also the El Nino which is climate cycle every 2 to 7 years with a increase temperature of seas.  |
-|Procedure/ what was examined|-The fiji have had a marine protected areas which allow to reduce the fishing and activities. And do ecotourism in coastal village.  Futhermore, Victor Bonito’s work consist to identify the types corals and do several nurseries along the coast.|
-|Conclusions/ discovery|Trough to marine protected areas coral cover had increased by 500% and there are 50% more coral species.Moreover,trough to five nurseries along the coast and Bonito’s searchs there are 7000 heat-tolerant corals. But all this discoveries won’t can save the coral and counter the climate change effects.|
+|Researchers?|Elena Bollati, Daniel Wangpraseurt and Jörg Wiedenmann|
+|Published in? when (if mentioned)?|ScienceNews, May 29 2020|
+|General topic|This article is about hues corals which change with the climate change.  Moreover, some wavelength can produce a certain effect on the corals colours with a pigment production. Certain neon colour is an imbalance nutriments chez corals.|
+|Procedure/ what was examined|For to understand this changments. The researchers are working in labs. They realized a context like a increasing temperature in a aquarium. After several week, they observed that corals had bumped up their fluorescent.|
+|Conclusions/ discovery|When certain the corals suffer a rise temperature they bump up their concentration fluorescent and change colors. Furthermore, while the high temperature the symbiosis with alguae no exist. But certain corals product more neaon color for to have a effect like a sunscreen.|
 |Remaining questions|/|
 
 
