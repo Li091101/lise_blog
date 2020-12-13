@@ -16,7 +16,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ### source url 
-https://www.newscientist.com/article/2254842-heat-resistant-corals-could-help-protect-reefs-against-hotter-waters/
+https://www.newscientist.com/article/2254842-heat-resistant-corals-could-help-protect-reefs-against-hotter-waters/.
+word count: 599
 
 ### vocabulary
 |word from the text|synonym/definition in english|french translation|

@@ -2,6 +2,7 @@ name: "blog-template"
 title: "Lise_blog's"
 output_dir: "docs"
 navbar:
+  search: true 
   right:
     - text: "Home"
       href: index.html
