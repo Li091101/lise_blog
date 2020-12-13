@@ -28,9 +28,11 @@
       }
     ],
     "date": "2020-11-29",
-    "categories": [],
+    "categories": [
+      "Article"
+    ],
     "preview": {},
-    "last_modified": "2020-11-29T18:58:58+01:00"
+    "last_modified": "2020-12-13T16:39:35+01:00"
   },
   {
     "path": "posts/2020-11-21-mon-article-3/",
@@ -69,7 +71,7 @@
   {
     "path": "posts/2020-11-09-mon-article-2/",
     "title": "Heat resistant corals could help protect reefs against hotter waters",
-    "description": "This article is some possibilities for counter to heatwave among the corals. A short description of the post.",
+    "description": "This article is some possibilities for counter to heatwave among the corals.",
     "author": [
       {
         "name": "Lise VE",
@@ -77,9 +79,11 @@
       }
     ],
     "date": "2020-11-09",
-    "categories": [],
+    "categories": [
+      "Article"
+    ],
     "preview": {},
-    "last_modified": "2020-12-13T16:28:46+01:00"
+    "last_modified": "2020-12-13T16:41:18+01:00"
   },
   {
     "path": "posts/about/",
@@ -107,9 +111,11 @@
       }
     ],
     "date": "2020-10-24",
-    "categories": [],
+    "categories": [
+      "Article"
+    ],
     "preview": {},
-    "last_modified": "2020-11-06T14:46:10+01:00"
+    "last_modified": "2020-12-13T16:40:46+01:00"
   },
   {
     "path": "posts/2019-10-24-bacteria-antobiotics/",

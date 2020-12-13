@@ -1,7 +1,9 @@
 ---
 title: "Heat resistant corals could help protect reefs against hotter waters"
+categories:
+  - Article
 description: This article is some possibilities for counter to heatwave among the corals.  
-  A short description of the post.
+
 author:
   - name: Lise VE
     url: {}
