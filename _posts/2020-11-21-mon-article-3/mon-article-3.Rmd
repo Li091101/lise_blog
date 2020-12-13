@@ -1,10 +1,9 @@
 ---
 title: "Neon colors may help some corals stage a comeback from bleaching"
-categories:
-  - Article
 description: This article is why the corals product neon colors ?
-author: Lise 
-  - name: 
+
+author: 
+  - name: Lise VE 
     url: {}
 date: 11-21-2020
 output:

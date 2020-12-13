@@ -1,7 +1,5 @@
 ---
 title: "Warmer, acidifying ocean brings extinction for reef-building corals, renewal for relatives"
-categories:
-  - Article
 description: This post is an analysis of stony corals evolution and the adaptation of soft-bodied
 
 author:

@@ -1,7 +1,5 @@
 ---
 title: "Deep beneath the high seas, researchers find rich coral oases"
-categories:
-  - Article
 description: This article is about a study on the seamount, That is mounts corals
   
 author: 
