@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![Corals](https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/Survey_deepwater_corals_1280x720.jpg?itok=3eeOw621)
+
 
 ### source url 
 https://www.sciencemag.org/news/2020/09/deep-beneath-high-seas-researchers-find-rich-coral-oases
@@ -48,5 +48,4 @@ words : 790
 |Conclusions/ discovery|In the study all the coral recorders are  Scleractinian. The reefs usually are on seamount,…. The objectif’s expditions is to record seamounts before the human effect|
 |Remaining questions|/|
 
-### source et auteur photo
-Image : https://www.sciencemag.org/news/2020/09/deep-beneath-high-seas-researchers-find-rich-coral-oases , by NOAA OFFICE OF OCEAN EXPLORATION AND RESEARCH
+
