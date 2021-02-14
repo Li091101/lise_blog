@@ -1,0 +1,44 @@
+---
+title: "How seaweed-munching crabs could help save coral reefs"
+descriptio: This article is about crabs which can to save the corals grace to their alimentation
+author:
+  - name: ___
+    url: {}
+date: 02-13-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### source url 
+https://www.sciencedaily.com/releases/2020/12/201210112120.htm
+words : 676
+
+### vocabulary 
+|Word from the text|Synonym/definition in English|French translation|
+| --- | --- | --- |
+|Seaweed|Sea plants|Algues|
+|The under-appreciated|		
+|Wondered|Be curious|Se demander| 
+|Split|Cause to break|Couper| 
+|Scrubbed|Cleaned|Frotter|
+|Dent|Dent|Renfoncement| 
+|Tool|Method|Outil| 
+|Onto|On top|Sur| 
+|The mind-boggling|Informal|Impressionnant| 
+|Fringes|Bangs|Frange| 
+
+### analysis
+|analysis|/     |
+| --- | --- |
+|Researchers?|Mark Butler, Jason Spadaro|
+|Published in? when (if mentioned)?|ScienceDaily,December 10 2020|
+|General topic|This article speak about |
+|Procedure/ what was examined||
+|Conclusions/ discovery||
+|Remaining questions|/|
+
