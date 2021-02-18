@@ -1,0 +1,46 @@
+---
+title: "Coral-eating starfish threaten Great Barrier Reef"
+description: Additional global warming, the corals are threaned by the starfishs that feed them. 
+author:
+  - name: ___
+    url: {}
+date: 02-18-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Acanthaster planci, by jon hanson on flickr. (https://www.flickr.com/photos/jonhanson/89930167/), CC BY-SA 2.0](https://upload.wikimedia.org/wikipedia/commons/f/ff/Crown_of_Thorns-jonhanson.jpg)
+
+### source url 
+
+https://www.newscientist.com/article/2258714-coral-eating-starfish-threaten-great-barrier-reef/ 
+word count:527
+
+### vocabulary
+
+|Word from the text|Synonym/definition in English|French translation|
+| --- | --- | --- |
+|Threats|Syn: menace|Menace| 
+|To shrink|Become smaller|Rétrécir| 
+|Pests|Unwanted animal|Nuisible| 
+|To stretch|Reach up|S’étirer| 
+|To tow|Syn: pull|Tracter/remorquer|
+|Assess|evaluate|jauger|
+|Gliders|Animal : flying possum|Phalanger volant/ planeur|
+|Culling|Animal: reduce population|Abattage| 
+|To bait|Syn: catch|Appâter| 
+|Trap|Snare|Piège| 
+|To disrupt|Syn: interrupt|Pertuber| 
+
+### Analysis
+
+|analysis|/     |
+| --- | --- |
+|Researchers?|Bernard Degnan, Russ Badcock and his colleagues|
+|Published in? when (if mentioned)?|NewScientist, November 2 2020|
+|General topic|This article speak about starfishs that are noxious for the coral reef because they eat the corals. Moreover, the starfishs predator are less plentiful because overfishing.|
