@@ -1,0 +1,42 @@
+---
+title: "Rapid Heat-Stress Test Identifies Resilient Corals"
+description: |
+  A short description of the post.
+author:
+  - name: ___
+    url: {}
+date: 02-21-2021
+preview: images/Coral_Outcrop_Flynn_Reef.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Corals,by Toby Hudson — personnel work, CC BY-SA 3.0, (https://commons.wikimedia.org/w/index.php?curid=11137678)](images/Coral_Outcrop_Flynn_Reef.jpg)
+
+### source url 
+https://www.scientificamerican.com/article/rapid-heat-stress-test-identifies-resilient-corals/
+word count: 478
+
+### vocabulary
+
+|Word from the text|Synonym/definition in English|French translation|
+| --- | --- | --- |
+|Heat-resilient|Support the temperature|Resistant à la chaleur|
+|Samples|Representative piece|Échantillon| 
+|To yield|Syn: productive|Céder| 
+|Hardware|Metal items|Quincaillerie| 
+|Finger-sized|The finger size|La taille d’un doigt| 
+|Dropping|Syn: decrease|Baisse/ diminution| 
+|Flashlight|It’s a small light|Lampe de poche/ balise|
+|Appealing|Attractive|Attirant/attrayant| 
+|Harness|Be in control of|Maitriser/ exploiter|
+|To target|Objectif|Objectif| 
+|Withstand|Syn: to resist|Resister| 
+|Outplanting|Replantation|Repliquage| 
+
+

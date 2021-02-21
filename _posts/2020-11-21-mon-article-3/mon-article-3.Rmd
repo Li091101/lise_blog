@@ -1,11 +1,14 @@
 ---
 title: "Neon colors may help some corals stage a comeback from bleaching"
+categories:
+  - Articles
 description: This article is why the corals product neon colors ?
 
 author: 
   - name: Lise VE 
     url: {}
 date: 11-21-2020
+preview: images/1024px-Reef0862_-_Flickr_-_NOAA_Photo_Library.jpg 
 output:
   distill::distill_article:
     self_contained: false
@@ -14,6 +17,9 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+![Distichopora,by David Burdick. — NOAA Photo Library: reef0862, Domaine public, (https://commons.wikimedia.org/w/index.php?curid=17987850)](images/1024px-Reef0862_-_Flickr_-_NOAA_Photo_Library.jpg)
 
 ### source url 
 

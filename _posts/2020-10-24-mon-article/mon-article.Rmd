@@ -1,11 +1,14 @@
 ---
 title: "Warmer, acidifying ocean brings extinction for reef-building corals, renewal for relatives"
+categories:
+  - Articles
 description: This post is an analysis of stony corals evolution and the adaptation of soft-bodied
 
 author:
   - name: Lise VE
     url: {}
 date: 10-24-2020
+preview: image/Diving_Maldives,_2009_-_Corals.jpg 
 output:
   distill::distill_article:
     self_contained: false
@@ -14,6 +17,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![ Acropora cytherea,by Christian Jensen — Diving Maldives, 2009, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34504728](image/Diving_Maldives,_2009_-_Corals.jpg)
 
 ### source url 
 
