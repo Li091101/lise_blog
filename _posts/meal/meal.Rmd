@@ -7,11 +7,12 @@ categories:
   - "English for Science"
   - "M.E.A.L."
 output: distill::distill_article
+preview: images/Nouveau projet (28).jpg
 ---
 
 ### My English activities 
 
-
+![By Lise Van Espen](images/Nouveau projet (28).jpg)
 
 - Sept. 30th: Since september, I have watched glee. I love this series because it's understanding and there is a lot songs. It's very entertaining ! 
 
