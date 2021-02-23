@@ -8,6 +8,7 @@ author:
   - name: Lise VE
     url: {}
 date: 10-24-2020
+preview: images/1024px-Multy_color_corals.jpeg
 output:
   distill::distill_article:
     self_contained: false
@@ -16,6 +17,9 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+![corals,by Brocken Inaglory - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2199602](images/1024px-Multy_color_corals.jpeg)
 
 ### source url 
 https://www.newscientist.com/article/2254842-heat-resistant-corals-could-help-protect-reefs-against-hotter-waters/.

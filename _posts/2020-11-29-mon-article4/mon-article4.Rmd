@@ -8,6 +8,7 @@ author:
   - name: Lise Van Espen
     url: {}
 date: 11-29-2020
+preview: images/Blue_Linckia_Starfish.JPG 
 output:
   distill::distill_article:
     self_contained: false
@@ -17,7 +18,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
+![coral reef, by Copyright (c) 2004 Richard Ling, CC BY-SA 3.0, (https://commons.wikimedia.org/w/index.php?curid=78275)](images/Blue_Linckia_Starfish.JPG)
 
 ### source url 
 https://www.sciencemag.org/news/2020/09/deep-beneath-high-seas-researchers-find-rich-coral-oases

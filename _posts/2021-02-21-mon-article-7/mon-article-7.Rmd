@@ -1,9 +1,8 @@
 ---
 title: "Rapid Heat-Stress Test Identifies Resilient Corals"
-description: |
-  A short description of the post.
+description: A new method for to discover the coral colonies which are the most heat-resilient. This method realised with CBASS (The coral bleaching automated stress system)
 author:
-  - name: ___
+  - name: Lise VE
     url: {}
 date: 02-21-2021
 preview: images/Coral_Outcrop_Flynn_Reef.jpg
@@ -37,6 +36,16 @@ word count: 478
 |Harness|Be in control of|Maitriser/ exploiter|
 |To target|Objectif|Objectif| 
 |Withstand|Syn: to resist|Resister| 
-|Outplanting|Replantation|Repliquage| 
+|Outplanting|Replantation|Repliquage|
+|Tank|Syn: reservoir|réservoir|
 
+### Analysis 
 
+|analysis|/     |
+| --- | --- |
+|Researchers?|Carol Buitrago Lopez,Mikhail Matz and Christian Voolstra|
+|Published in? when (if mentioned)?|Scientific American, October 1 2020|
+|General topic|This article speak about a new method for to identify the corals which are the most heat-resilient. This method is very effective because it can give the result in only one day.|
+|Procedure/ what was examined| The new method used,it's the CBASS (The coral bleaching automated stress system) made from materials present in hardware store. Moreover, it is constituting of four 10-liter tanks.The procedure proceeds in captivating the coral on the reef. Then they let it alone while several hours with a temperature to 30 degrees C.Finally, they looked the microalguae absorbance in the corals because it's a good stress indicator|
+|Conclusions/ discovery|This method will be very necessary for to detect the corals that are the most heat-resilient. So that so to be used for the coral reef development.And will therefore be used in nursery for then put them on a damaged coral reef. So to allow the coral's rebirth|
+|Remaining questions|/|

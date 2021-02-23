@@ -4,7 +4,7 @@ categories:
   - Articles
 description: Additional global warming, the corals are threatened by the starfishs that feed on them. 
 author:
-  - name: ___
+  - name: Lise VE
     url: {}
 date: 02-18-2021
 preview: images/Crown_of_Thorns-jonhanson.jpg
