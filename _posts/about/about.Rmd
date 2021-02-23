@@ -4,7 +4,10 @@ author:
   - name: "Lise VE" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
+preview: images/Scan23022021214216-pdf.jpg
 ---
+
+![By Lise Van Espen](images/Scan23022021214216-pdf.jpg)
 
   I am a Umons student who studying the biology. I have choosen the coral's subject because I like the marine biology. Moreover, the corals are like the trees on the earth, they are necessary to good development of the marine life.  
 
