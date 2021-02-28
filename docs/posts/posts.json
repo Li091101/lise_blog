@@ -43,9 +43,11 @@
       }
     ],
     "date": "2021-02-21",
-    "categories": [],
+    "categories": [
+      "Articles"
+    ],
     "preview": "posts/2021-02-21-mon-article-7/images/Coral_Outcrop_Flynn_Reef.jpg",
-    "last_modified": "2021-02-23T14:41:03+01:00"
+    "last_modified": "2021-02-28T10:54:47+01:00"
   },
   {
     "path": "posts/2021-02-18-mon-article-6/",

@@ -1,5 +1,7 @@
 ---
 title: "Rapid Heat-Stress Test Identifies Resilient Corals"
+categories:
+  - Articles
 description: A new method for to discover the coral colonies which are the most heat-resilient. This method realised with CBASS (The coral bleaching automated stress system)
 author:
   - name: Lise VE
