@@ -47,7 +47,7 @@ word count: 478
 | --- | --- |
 |Researchers?|Carol Buitrago Lopez,Mikhail Matz and Christian Voolstra|
 |Published in? when (if mentioned)?|Scientific American, October 1 2020|
-|General topic|This article speak about a new method for to identify the corals which are the most heat-resilient. This method is very effective because it can give the result in only one day.|
-|Procedure/ what was examined| The new method used,it's the CBASS (The coral bleaching automated stress system) made from materials present in hardware store. Moreover, it is constituting of four 10-liter tanks.The procedure proceeds in captivating the coral on the reef. Then they let it alone while several hours with a temperature to 30 degrees C.Finally, they looked the microalguae absorbance in the corals because it's a good stress indicator|
-|Conclusions/ discovery|This method will be very necessary for to detect the corals that are the most heat-resilient. So that so to be used for the coral reef development.And will therefore be used in nursery for then put them on a damaged coral reef. So to allow the coral's rebirth|
+|General topic|This article is about a new method for to identify the corals which are the most heat-resilient. This method is very effective because it can give the result in only one day.|
+|Procedure/ what was examined| The new method used,it's the CBASS (The coral bleaching automated stress system) made from materials present in hardware store. Moreover, it is constituting of four 10-liter tanks.The procedure proceeds in captivating the coral on the reef. Then they let it alone while several hours with a constant temperature to 30 degrees C.Finally, they looked the microalguae absorbance in the corals because it's a good stress indicator|
+|Conclusions/ discovery|This method will be critical in detecting the corals that are the most heat-resilient. Indeed, these corals can be used in nurseries and added to the damaged coral reef, allowing its rebirth.Since they are less vulnerable to the acidification of the ocean|
 |Remaining questions|/|

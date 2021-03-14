@@ -43,8 +43,8 @@ words : 676
 | --- | --- |
 |Researchers?|Mark Butler, Jason Spadaro|
 |Published in? when (if mentioned)?|ScienceDaily,December 10 2020|
-|General topic|This article speak about crabs use for to eat the alguae (or seaweed) which cover the coral reef. This alguae avoid the correct coral development.Grace to herbivore crabs there are a decrease to less than 50% seaweed on the reef. |
+|General topic|This article is about crabs use to eat the alguae (or seaweed) which cover the coral reef. This alguae avoid the correct coral development. Thanks to herbivore crabs there are a decrease to less than 50% seaweed on the reef. |
 |Procedure/ what was examined|Unfortunately, the Caribbean crabs aren't from Florida, so researchers have been implemented a farming. Then, they put the crabs on the reef which are 80% covered by alguae. They get a final result where the reef was only covered with 20% alguae.|
-|Conclusions/ discovery|Other animals can be used for the coral development, in this case it's caribean crabs which help the corals to correctly grow because they feed on the alguae which cover the coral reef avoid their growth.|
+|Conclusions/ discovery|Other organisms can be used for the coral development, in this case it's caribean crabs which help the corals to correctly grow because they feed on the alguae which cover the coral reef which avoid their correct growth.|
 |Remaining questions|/|
 
