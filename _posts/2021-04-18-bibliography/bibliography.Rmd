@@ -1,0 +1,58 @@
+---
+title: "Bibliography"
+categories:
+  - Bibliography
+description: Blog's bibliography
+author:
+  - name: Lise VE
+    url: {}
+date: 04-18-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Pictures:
+
+•	 Article 1: Acropora cytherea,by Christian Jensen — Diving Maldives, 2009, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=34504728
+
+•	 Article 2: corals,by Brocken Inaglory - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2199602
+
+•	 Article 3: Distichopora,by David Burdick. — NOAA Photo Library: reef0862, Domaine public, (https://commons.wikimedia.org/w/index.php?curid=17987850)
+
+•	 Article 4: coral reef, by Copyright (c) 2004 Richard Ling, CC BY-SA 3.0, (https://commons.wikimedia.org/w/index.php?curid=78275)
+
+•	Article 5: Mithrax spinosissimus, par Adiël A. Klompmaker , Roger W. Portell, Aaron T. Klier, Vanessa Prueter, Alyssa L. Tucker - Klompmaker AA, Portell RW, Klier AT, Prueter V, Tucker AL. (2015) Spider crabs of the Western Atlantic with special reference to fossil and some modern Mithracidae. PeerJ 3:e1301 (https://dx.doi.org/10.7717/peerj.1301), CC BY 4.0
+
+•	Article 6: Acanthaster planci, by jon hanson on flickr. (https://www.flickr.com/photos/jonhanson/89930167/), CC BY-SA 2.0
+
+•	Article 7: Corals,by Toby Hudson — personnel work, CC BY-SA 3.0, (https://commons.wikimedia.org/w/index.php?curid=11137678)
+
+### Draws:
+
+•	About me: by Lise Van Espen 
+
+•	MEAL: by Lise Van Espen 
+
+### Article:
+
+•	Article 1 : https://www.sciencedaily.com/releases/2020/08/200831112354.htm , consulted on 11 April 2021
+
+•	Article 2 : https://www.newscientist.com/article/2254842-heat-resistant-corals-could-help-protect-reefs-against-hotter-waters/  , consulted on 11 April 2021
+
+•	Article 3: https://www.sciencenews.org/article/corals-algae-neon-colors-bleaching-recovery-oceans , consulted on 11 April 2021
+
+•	Article 4: https://www.sciencemag.org/news/2020/09/deep-beneath-high-seas-researchers-find-rich-coral-oases , consulted on 11 April 2021
+
+•	Article 5:   https://www.sciencedaily.com/releases/2020/12/201210112120.htm , consulted on 11 April 2021
+
+•	Article 6: https://www.newscientist.com/article/2258714-coral-eating-starfish-threaten-great-barrier-reef/  , consulted on 11 April 2021
+
+•	Article 7: https://www.scientificamerican.com/article/rapid-heat-stress-test-identifies-resilient-corals/ , consulted on 11 April 2021
+
+
+

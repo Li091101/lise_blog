@@ -1,0 +1,20 @@
+---
+title: "Introduction"
+categories:
+  - Introduction
+description: Blog's introduction
+author:
+  - name: Lise VE
+    url: {}
+date: 04-18-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In this portfolio, I have chosen the subject of corals. Corals are marine organisms that form coral reefs. These allow marine ecosystems as scleractinian corals are the base structure of the reefs. Most corals are composed of calcite but also aragonite. But we will see that those made of aragonite are threatened due to global warming. Moreover, Some corals are able to emit a fluorescent colour which may be due to several reasons such as a protection from the sun, attraction for symbiosis with algae. Some algae are important against the heat-resilient.  We will see also that  the corals are not only threatened by rising temperatures but also by algae and starfish. Indeed, some reefs are covered with algae preventing the correct development of the corals. To fight against this, researchers have thought of the crabs of the Caribbean. Moreover, they can be threatened by a certain starfish which is harmful. Recently, researchers have discovered seamount , which we will discuss in this dossier.  
+

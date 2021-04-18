@@ -29,10 +29,10 @@ words : 790
 | --- | --- | --- |
 |to bolster|syn: to support|soutenir/renforcer|
 |handful|quantity|poignée|
-|to shore|the land which border the sea|côté/rivage|
+|to shore|the land which border the sea|côte/rivage|
 |to aim|choose a target|viser|
 |slopes|syn: go up/down|être en pente/inclinaison|
-|sceractinian|hard coral|scleractinien|
+|scleractinian|hard coral|scleractinien|
 |escarpments|syn: narrow|escarpment|
 |one-fifth| after one-fourth|cinquième|
 |to gather|syn: collect|ramasser|

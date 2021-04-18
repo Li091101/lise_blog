@@ -1,5 +1,54 @@
 [
   {
+    "path": "posts/2021-04-18-introduction/",
+    "title": "Introduction",
+    "description": "Blog's introduction",
+    "author": [
+      {
+        "name": "Lise VE",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-18",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-04-18T09:24:23+02:00"
+  },
+  {
+    "path": "posts/2021-04-18-bibliography/",
+    "title": "Bibliography",
+    "description": "Blog's bibliography",
+    "author": [
+      {
+        "name": "Lise VE",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-18",
+    "categories": [
+      "Bibliography"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-18T09:50:49+02:00"
+  },
+  {
+    "path": "posts/2021-04-18-conclusion/",
+    "title": "Conclusion",
+    "description": "Blog's conclusion",
+    "author": [
+      {
+        "name": "Lise VE",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-17",
+    "categories": [
+      "Conclusion"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-18T09:46:22+02:00"
+  },
+  {
     "path": "posts/about/",
     "title": "About Me",
     "description": {},
@@ -47,7 +96,7 @@
       "Articles"
     ],
     "preview": "posts/2021-02-21-mon-article-7/images/Coral_Outcrop_Flynn_Reef.jpg",
-    "last_modified": "2021-03-20T11:07:40+01:00"
+    "last_modified": "2021-04-18T09:21:40+02:00"
   },
   {
     "path": "posts/2021-02-18-mon-article-6/",
@@ -64,7 +113,7 @@
       "Articles"
     ],
     "preview": "posts/2021-02-18-mon-article-6/images/Crown_of_Thorns-jonhanson.jpg",
-    "last_modified": "2021-03-15T08:37:47+01:00"
+    "last_modified": "2021-04-18T09:21:37+02:00"
   },
   {
     "path": "posts/2021-02-13-mon-article-5/",
@@ -151,7 +200,7 @@
       "Articles"
     ],
     "preview": "posts/2020-10-24-mon-article/image/Diving_Maldives,_2009_-_Corals.jpg",
-    "last_modified": "2021-03-15T08:38:15+01:00"
+    "last_modified": "2021-04-18T09:21:33+02:00"
   },
   {
     "path": "posts/2020-11-09-mon-article-2/",
@@ -168,6 +217,6 @@
       "Articles"
     ],
     "preview": "posts/2020-11-09-mon-article-2/images/1024px-Multy_color_corals.jpeg",
-    "last_modified": "2021-03-15T08:37:51+01:00"
+    "last_modified": "2021-04-18T09:21:30+02:00"
   }
 ]

@@ -1,0 +1,20 @@
+---
+title: "Conclusion"
+categories:
+  - Conclusion
+description: Blog's conclusion
+  
+author:
+  - name: Lise VE
+    url: {}
+date: 04-17-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In conclusion, we can say that the extinction of corals is not only due to global warming but also by animals. Even if the cause of their disappearance is mainly due to this problem. Thanks to this portfolio, I was able to learn more about corals such as those that can produce a fluorescent colour as an immune response or to attract algae. But also that there are still places undiscovered by humans that contain seamounts. I think we have yet to discover these symbiotic organisms that can also be bioluminescent. Moreover, this article allow me interested in this subject and aware of it.
