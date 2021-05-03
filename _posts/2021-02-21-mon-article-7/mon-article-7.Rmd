@@ -48,6 +48,6 @@ word count: 478
 |Researchers?|Carol Buitrago Lopez,Mikhail Matz and Christian Voolstra|
 |Published in? when (if mentioned)?|Scientific American, October 1 2020|
 |General topic|This article is about a new method to identify the corals which are the most heat-resilient. This method is very effective because it can give the result in only one day.|
-|Procedure/ what was examined| The new method used,is called the CBASS (The coral bleaching automated stress system) made from materials that you can find in hardware store.It is made of four 10-liter tanks.The procedure consists of capturing the coral on the reef. Then they leave it for during several hours with a constant temperature of 30 degrees C.Finally, they analyse the microalguae absorbance in the corals as it's a good stress indicator|
+|Procedure/ what was examined| The new method used,is called the CBASS (The coral bleaching automated stress system) made from materials that you can find in hardware store.It is made of four 10-liter tanks.The procedure consists of capturing the coral on the reef. Then they leave it for during several hours with a constant temperature of 30 degrees C.Finally, they analyses the microalgae absorbance in the corals as it's a good stress indicator|
 |Conclusions/ discovery|This method will be really to detect the corals that are the most heat-resilient.So that they could be used for the coral reef development.They could develop in nursery for then being put on a damaged coral reef.This could help corals to rebirth|
 |Remaining questions|/|
